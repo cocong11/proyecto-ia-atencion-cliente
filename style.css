@@ -1,0 +1,6 @@
+/* Starter kit M4-S26. Completa el diseño. No uses datos reales ni credenciales. */
+:root { font-family: system-ui, sans-serif; }
+body { margin: 0; padding: 0; line-height: 1.5; }
+header, main { max-width: 960px; margin: 0 auto; padding: 1rem; }
+section { margin: 1rem 0; padding: 1rem; border: 1px solid #ddd; border-radius: 8px; }
+/* TODO: mejora tablas, formularios, botones y mensajes de error. */
